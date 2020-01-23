@@ -9,7 +9,7 @@ namespace DynamicExcelRead.Classes.Utils
 {
     public class ExcelReader
     {
-        private const string FilePath = @"test.xlsx";
+        private const string FilePath = @"../../test.xlsx";
 
         /// <summary>
         ///     Beolvassa az adathalmazt a paraméterben átadott Excel fájlból,
